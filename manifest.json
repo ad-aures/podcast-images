@@ -1,0 +1,7 @@
+{
+  "name": "ad-aures/podcast-images",
+  "version": "0.1.0",
+  "description": "Adds multiple image resources for the podcast in your RSS feeds using `<podcast:images>`'s Podcasting2.0 tag.",
+  "license": "MIT",
+  "hooks": ["rssAfterChannel", "rssAfterItem"]
+}
